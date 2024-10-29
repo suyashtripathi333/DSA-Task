@@ -140,6 +140,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0015-3sum](https://github.com/suyashtripathi333/DSA-Task/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/suyashtripathi333/DSA-Task/tree/master/0016-3sum-closest) |
+| [0035-search-insert-position](https://github.com/suyashtripathi333/DSA-Task/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suyashtripathi333/DSA-Task/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0455-assign-cookies](https://github.com/suyashtripathi333/DSA-Task/tree/master/0455-assign-cookies) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/suyashtripathi333/DSA-Task/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -195,6 +196,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/suyashtripathi333/DSA-Task/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suyashtripathi333/DSA-Task/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/suyashtripathi333/DSA-Task/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/suyashtripathi333/DSA-Task/tree/master/0792-binary-search) |
